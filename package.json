@@ -25,7 +25,7 @@
         "node-red-contrib-viseo-tokenizer": "~0.1.4",
         "node-red-viseo-bot-manager": "~0.0.10",
         "node-red-viseo-helper": "~0.2.0",
-        "node-red-viseo-storage-plugin": "~0.1.0",
+        "node-red-viseo-storage-plugin": "~0.1.0-alpha.8",
         "node-red-viseo-middleware": "~0.0.2",
         "node-red-contrib-azure-iot-hub": "~0.4.0",
         "node-red-contrib-azure-blob-storage": "~0.4.0",
