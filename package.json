@@ -3,7 +3,7 @@
     "version": "0.0.8-rcarmo",
     "description": "A boilerplate for node-red-contrib-viseo",
     "dependencies": {
-        "moment-timezone": "~0.5.11",
+        "moment-timezone": "~0.5.23",
         "node-red": "~0.19.5",
         "node-red-contrib-viseo-bot-message": "~0.1.19",
         "node-red-contrib-viseo-botbuilder": "~0.6.3",
