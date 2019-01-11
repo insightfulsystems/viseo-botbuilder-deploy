@@ -1,7 +1,7 @@
 {
-    "name": "node-red-viseo-bot",
+    "name": "viseo-botbuilder-deploy",
     "version": "0.0.9-rcarmo",
-    "description": "A boilerplate for node-red-contrib-viseo",
+    "description": "A boilerplate for deploying the VISEO bot builder engine",
     "dependencies": {
         "moment-timezone": "~0.5",
         "node-red": "~0.19",
@@ -37,7 +37,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/rcarmo/node-red-viseo-bot.git"
+        "url": "https://github.com/insightfulsystems/viseo-botbuilder-deploy.git"
     },
     "license": "Apache-2.0",
     "keywords": [
