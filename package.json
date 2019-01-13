@@ -22,6 +22,7 @@
         "node-red-contrib-viseo-ms-graph": "~0.2",
         "node-red-contrib-viseo-ms-oxford": "~0.1",
         "node-red-contrib-viseo-nedb": "^0.3.2",
+        "node-red-contrib-viseo-nosql": "^0.3.0",
         "node-red-contrib-viseo-qrcode": "~0.1",
         "node-red-contrib-viseo-random": "~0.2",
         "node-red-contrib-viseo-repeat": "~0.2",
