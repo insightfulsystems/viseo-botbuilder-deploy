@@ -4,7 +4,7 @@
     "description": "A boilerplate for deploying the VISEO bot builder engine",
     "dependencies": {
         "moment-timezone": "~0.5",
-        "node-red": "~0.19",
+        "node-red": "~0.20",
         "node-red-contrib-azure-blob-storage": "~0.4",
         "node-red-contrib-azure-iot-hub": "~0.4",
         "node-red-contrib-azure-table-storage": "~0.1",
